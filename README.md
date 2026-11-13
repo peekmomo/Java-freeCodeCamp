@@ -52,3 +52,7 @@ byte -128 to 127
     String[] 
 
 ### getter setter
+
+### aggregation 
+    One object contains another object as part of its structure,
+    but the containes object/s can exist independently
