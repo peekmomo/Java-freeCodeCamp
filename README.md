@@ -39,7 +39,7 @@ byte -128 to 127
     
 
 ### methods
-       a block of reusable code that is executed when called ()
+       a block of reusable code that is  executed when called ()
 
 ### overloaded methods 
     methods that share the same name,but different parameters
